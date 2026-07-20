@@ -1,9 +1,12 @@
 body {
   margin: 0;
+  padding: 0;
+  line-height: 1;
 }
 
 section {
   margin: 0;
+  padding: 0;
 }
 
 .stars {
